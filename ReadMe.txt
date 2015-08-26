@@ -1,3 +1,7 @@
+詳細：http://edison-lab.jp/showcase/theguild/
+Author: http://theguild.jp/
+
+
 ・システム構成
 【Edison + センサ】→（シリアル通信）→【oF（Mac mini）】→（OSC）→【Unity + Live2D（Mac mini）】
 
