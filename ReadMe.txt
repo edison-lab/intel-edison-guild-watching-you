@@ -2,6 +2,14 @@
 Author: http://theguild.jp/
 
 
+
+プロジェクト材料
+•	インテル® Edison キット For Arduino < http://edison-lab.jp/edison-arduino/ >
+•	6個の超音波距離センサ（型番 HC-SR04）
+•	Mac Mini （Open Frameworks, Open Source Control (OSC), Unity とLive 2Dを使用）
+•	縦型モニター（60インチ）
+
+
 ・システム構成
 【Edison + センサ】→（シリアル通信）→【oF（Mac mini）】→（OSC）→【Unity + Live2D（Mac mini）】
 
